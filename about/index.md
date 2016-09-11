@@ -9,7 +9,7 @@ image:
   creditlink: https://www.flickr.com/photos/whitecatsg/1826608977/in/photolist-3MpRde-pskSLT-8o8Q-bgmXEB-bgmKqn-f3WXhF-bgmPMr-ajs7nv-bgn1hg-e6ygxw-qcztF-bgmVMB-bgmVhn-axTPew-ac58oJ-bgmN8Z-bgmYpc-bgmQFx-bgmCfg-PfJRM-bgmC5P-4j8Vb8-9giKh9-8PTje-e9EKrr-byQiMr-5NEpnn-anxH2g-Cyt97-bgmNsv-bgmByZ-cQiqS5-b5dsvi-8q9qzp-bgmKVk-hvJiYe-dpvhd6-cDqpe3-bgmzTc-b3dJg8-bgn45M-bgmLYt-ebbEcg-iaxqKq-bkVr87-bgn3fF-gztXWn-dLudLX-wzZW1-5DJXp
 ---
 
-**Bangalore Bytes** is and amalgamation of how we breath and feel in our Namma City. It's our collection of recipies that myself (Preeti) and my spouse (Ramesh) have woven together.
+**Bangalore Bytes** is an amalgamation of how we breath and feel in our Namma City. It's our collection of recipies that myself (Preeti) and my spouse (Ramesh) have woven together.
 My recipes are food centric which is my and my spouses' love, and my spouses' recipes are tech centric which is his passion.
 
 ## So Simply it's all about ourselves

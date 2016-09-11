@@ -1,20 +1,11 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
+kamal_preeti:
+  name: Kamal Preeti
+  bio: "I'm love to perform gastronomical experiments, I'm here to share my food venture."
+  avatar: kamal_preeti.jpg
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+ramesh_rao:
+  name: Ramesh Rao
+  bio: "I'm a strong believer of \"Eat, Code and Sleep\", These are principles are close to my heart."
+  avatar: ramesh_rao.jpg

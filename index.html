@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Feel free and byte inn
-excerpt: "Bangalore Bytes serving for simple and refreshing"
+excerpt: "Bangalore Bytes simple maccha"
 search_omit: true
 ---
 
@@ -10,7 +10,3 @@ search_omit: true
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
-
-<script language="javascript">
-    window.location.href = "{{ site.url }}/about/"
-</script>

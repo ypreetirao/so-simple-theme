@@ -3,7 +3,7 @@ layout: post
 title: "Eggless Choco Chip Muffins"
 excerpt: "Everyone's all time favourite muffins"
 categories: articles
-tags: [cup cake]
+tags: [muffins]
 comments: true
 share: true
 modified: 2016-09-18T12:31:50+05:30

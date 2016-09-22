@@ -69,7 +69,7 @@ Muffins do you really require any introduction to this decadent dessert ? As we 
 
 * Take _milk_ in separate measuring cup and add _vinegar and baking soda_ and stir it quickly
 
-> If you don't have vinegar replace it with 4-5 drops of lemon, or you can use curd with same measurement
+> If you don't have vinegar replace it with 4-5 drops of lemon juice, or you can use curd with same measurement
 
 * In _butter batter_ add _all purpose flour_ in batches and keep whisking (**do not add the entire flour in one go this could lead to lumpy and bloated batter**)add _baking powder, vanilla extract and mixture of milk_ we prepared previously beat the batter for 2 minutes (**do not over whisk the batter**) the consistency of the batter at the end of this process should be like
 

@@ -108,6 +108,6 @@ Muffins do you really require any introduction to this decadent dessert ? As we 
 
 
 > Enjoy your delicious muffins with hot-hot cup of coffee or chilled-chilled scoop of ice-cream. 
-We are always here to help you please use of our comments section for starting a discussion or sharing your experience.
+We are always here to help you please use our comments section for starting a discussion or sharing your experience.
 
 _**Share and like in kind.**_

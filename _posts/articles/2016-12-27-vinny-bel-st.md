@@ -2,14 +2,13 @@
 layout: post
 title: "Vinny's - Pizza, Pasta and More"
 excerpt: “Wood fire baked — goodness"
-categories: articles
+categories: eatout
 tags: [cafe]
 comments: true
 share: true
 modified: 2016-12-27T18:38:50+05:30
-author: kamal_preeti
-image:
-  feature: https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/vinny/header.jpg
+author: Kamal Preeti
+image: https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/vinny/header.jpg
 ---
 **Vinny** is a joint which has all things to make you happy, to name a few: small menu,
  open air seating, free wifi and great beverages.

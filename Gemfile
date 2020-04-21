@@ -1,6 +1,3 @@
 source "https://rubygems.org"
-
-gem "jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed"
+ruby '~> 2.5.3'
+gemspec

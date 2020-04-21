@@ -1,11 +1,9 @@
-# Authors
-
-kamal_preeti:
+Kamal Preeti:
   name: Kamal Preeti
+  picture: /images/kamal_preeti.jpg
   bio: "I'm love to perform gastronomical experiments, I'm here to share my food venture."
-  avatar: kamal_preeti.jpg
 
-ramesh_rao:
-  name: Ramesh Rao
+Y Ramesh Rao:
+  name: Y Ramesh Rao
+  picture: /images/ramesh_rao.png
   bio: "I'm a strong believer of \"Eat, Code and Sleep\", These are principles are close to my heart."
-  avatar: ramesh_rao.jpg

@@ -2,13 +2,14 @@
 layout: post
 title: "Eggless Choco Chip Muffins"
 excerpt: "Everyone's all time favourite muffins"
-categories: recipies
+categories: articles
 tags: [muffins]
 comments: true
 share: true
 modified: 2016-09-18T12:31:50+05:30
-author: Kamal Preeti
-image: https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/cupcakerecipe/header.jpg
+author: kamal_preeti
+image:
+  feature: https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/cupcakerecipe/header.jpg
 ---
 
 Muffins do you really require any introduction to this decadent dessert ? As we all know getting the perfect muffin with eggless blend is something that requires a good recipe. So here is my secret recipe for amazing muffins.

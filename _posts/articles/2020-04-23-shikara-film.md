@@ -29,7 +29,7 @@ Now [Vidhu Vinod Chopra](https://www.imdb.com/name/nm0006765/) is veteran in our
   <figcaption></figcaption>
 </figure> 
 
- His handling of screenplay has his signature, where the histories of his protagonists are always interwoven at places where they are called for that exemplifies the narration and you ride off the sine wave of drama he has in-store for you.
+ His handling of screenplay has his signature, the histories of his protagonists are always interwoven at places where they are called for that exemplifies the narration and you ride off the sine wave of drama he has in-store for us.
 
 Now [Shikara](https://www.imdb.com/title/tt10930586/) is projecting the plight of Kashmiri Pandits a sect of people who had to make an exodus off Kashmir because of civil unrest in the year of 1990. Now when we have controversial premise it is highly important to maintain a delicate balance between depicting the facts in a way that you get holistic sense of the problem but without any sort of bias which could make you pick sides. For me that's the beauty of [Shikara](https://www.imdb.com/title/tt10930586/) I haven't seen such an innocent and delicate movie over such inflammable topic before. 
 
@@ -46,9 +46,9 @@ Without giving away everything in my thoughts here I would just like to concentr
   <img src="https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/shikara/calfshot.png" alt="">
   <figcaption></figcaption>
 </figure> 
-[Vidhu Vinod Chopra](https://www.imdb.com/name/nm0006765/) shot above sequence with no stone unturned its elaborate at 5 mins as the calf above is helped to stay back as the owner feels it's too arduous for calf to travel. Mr. Chopra then goes for a long shot with panning across the valley of Kashmir where there are buses full of people moving out of the city. It's just his pain which pours out on frames here. Animals are better off than humans as there is no religion to dictate. 
+[Vidhu Vinod Chopra](https://www.imdb.com/name/nm0006765/) shot above sequence with no stone unturned its elaborate at 5 mins as the calf above is helped to stay back because owner feels it's too arduous for calf to travel. [Vidhu Vinod Chopra](https://www.imdb.com/name/nm0006765/) then goes for a long shot panning across the valley of Kashmir where there are buses full of people moving out of the city. It's just his pain which pours out on frames here. You cannot help it but think that animals are better off than humans as there is no religion to dictate. 
 
-The second one is towards the end of the movie, where our Shiv Kumar Dhar who is a teacher by profession is shown sitting and writing when his students make an entry, post some discussion Mr. Dhar asks the purpose of their visit to which a particular kid replies that some of my friends here have not seen how a Kasmiri Pandit looks I bought them here to show you. That's my friend is gut wrenching with the expressions of Mr. Dhar, his surreal smile is captured with such brilliance that it completely tears you apart.
+The second one is towards the end of the movie, where our Shiv Kumar Dhar who is a teacher by profession is shown sitting and writing when his students make an entry, post some discussion Mr. Dhar asks the purpose of their visit to which a particular kid replies that some of my friends here have not seen how a Kashmiri Pandit looks,so I brought them here to show you. That's my friend is gut wrenching with the expressions of Mr. Dhar, his surreal smile is captured with such brilliance that it completely tears you apart.
 
 
 Finally the melancholy is also made more impactful with [AR Rahman's](https://www.imdb.com/name/nm0006246/) music for which I don't have any words, I would just like you to feel it yourselves. 

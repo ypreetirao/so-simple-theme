@@ -8,7 +8,9 @@ comments: true
 share: true
 modified: 2020-04-23T05:49:50+05:30
 author: Y Ramesh Rao
-image: https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/shikara/hero.png
+image:
+    path: https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/shikara/hero.png
+    caption: "Photo credit [YouTube](https://www.youtube.com/watch?v=LoZXboySl2I&t=74s)"
 ---
 
 The premise of the movie was no surprise, it's disturbing and it's based over true events and something that is close to heart of [Vidhu Vinod Chopra](https://www.imdb.com/name/nm0006765/) our director but then it's also about the most beautiful, scenic Kashmir and here is where the entire difference lies. Even though the movie is on and off Kashmir but the _Kashmiriat_ is kept intact by our central protagonists, it has been embedded into them for each an every frame.

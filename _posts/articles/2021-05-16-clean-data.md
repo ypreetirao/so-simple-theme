@@ -24,6 +24,13 @@ Not only monitoring but this data is also needed to be shared by you with your c
 
 Below simple steps would come in handy, and I hope it eases a few data gathering and sharing problems that you experience with infection.
 
+<figure class="align-center">
+  <a href="https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/cleandata/WhatDoesItDo.png" class="image-popup">
+    <img src="https://s3.ap-south-1.amazonaws.com/bangalorebytes.in/cleandata/WhatDoesItDo.png" alt="">
+  </a>  
+  <figcaption></figcaption>
+</figure>{: .notice}
+
 # Steps to achieve the below result
 
 {% include responsive-embed url="https://www.youtube.com/embed/835guSxd0jo?controls=0&amp;" %}
